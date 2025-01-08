@@ -59,6 +59,15 @@ Exploring-Why-Civil-Resistance-Works/
 └── README.md          # Documentation
 ```
 
+## 🚀 Usage
+
+1. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+2. Open `rogets_thesaurus_analysis.ipynb`
+3. Run all cells to perform the analysis
 
 ## 📊 Data Sources
 
